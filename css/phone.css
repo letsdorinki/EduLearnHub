@@ -1,0 +1,50 @@
+
+.navlist{
+    flex-direction: column;
+}
+.navbar{
+    flex-direction: column;
+
+}
+.rightnav{
+    text-align: center;
+}
+.search{
+    width: 100%;
+}
+
+.nav-height{
+    height: 72px;;
+}
+.v-class{
+    opacity: 0;
+}
+.burger{
+    display: block;
+}
+.box-main{
+    flex-direction: column-reverse;
+}
+.section{
+    flex-direction: column-reverse;
+    padding: 10px;
+    height: fit-content;
+
+}
+.smalltext{
+    text-align: center;
+    font-size: 14px;
+}
+.bigtext{
+    text-align: center;
+    font-size: 31px;
+}
+.btn{
+    text-align: center;
+}
+.tumbnail img{
+    width: 200px;
+}
+.form{
+    max-width:auto;
+}
